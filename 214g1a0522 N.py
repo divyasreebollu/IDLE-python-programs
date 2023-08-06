@@ -1,0 +1,12 @@
+import turtle
+turtle.pensize(10)
+turtle.penup()
+turtle.fd(80)
+turtle.left(90)
+turtle.pendown()
+turtle.fd(100)
+turtle.right(140)
+turtle.fd(120)
+turtle.left(140)
+turtle.fd(100)
+turtle.done()

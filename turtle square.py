@@ -1,0 +1,17 @@
+import turtle
+turtle.Turtle()
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.fillcolor("Orange")
+turtle.begin_fill()
+turtle.end_fill()
+turtle.pencolor("Blue")
+turtle.pensize(10)
+turtle.Screen().bgcolor("orange")
+
